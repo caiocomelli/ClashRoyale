@@ -1,3 +1,13 @@
-body{
-    background-color: rgb(0, 255, 34);}
-img{width: 700px;}
+body {
+
+    background-color: white;
+    color: 3333;
+    text-align: center;
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
